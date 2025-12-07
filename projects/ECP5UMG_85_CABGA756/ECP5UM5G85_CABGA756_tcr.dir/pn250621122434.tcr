@@ -1,0 +1,5 @@
+#Start recording tcl command: 6/20/2025 14:32:01
+#Project Location: /home/iwolfs/Work/Projects/fpga_project/lattice/ice40-experiments/projects/ECP5UMG_85_CABGA756; Project name: ECP5UM5G85_CABGA756
+prj_project new -name "ECP5UM5G85_CABGA756" -impl "test" -dev LFE5U-85F-6BG756C -synthesis "lse"
+prj_project save
+#Stop recording: 6/21/2025 12:24:34

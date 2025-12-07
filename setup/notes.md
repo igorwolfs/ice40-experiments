@@ -74,3 +74,9 @@ I did however, not add any extra pull-ups, since the WP/HOLD pins are already pu
 
 ### Connection attempt - FT232H breakout board
 
+
+
+# Programming the FPGA
+- Project ice-storm: reverse engineering of the FPGA bitstream for lattice: https://github.com/YosysHQ/icestorm
+- Yosys, a verilog synthesis tool: https://github.com/YosysHQ/yosys
+- nextpnr, an FPGA placement and routing tool: https://github.com/YosysHQ/nextpnr
